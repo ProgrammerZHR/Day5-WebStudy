@@ -1,0 +1,15 @@
+span {
+    font-weight: bold;
+}
+
+a {
+    color: cornflowerblues;
+}
+
+.c1 {
+    margin-top: 15px;
+    display: block;
+}
+.c2 {
+    font-weight: normal;
+}

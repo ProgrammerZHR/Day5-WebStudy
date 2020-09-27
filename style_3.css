@@ -1,0 +1,68 @@
+:root {
+    font-size: 10px;
+}
+
+body {
+    width: 90rem;
+}
+
+a {
+    color: cornflowerblues;
+}
+span {
+    font-weight: bold;
+}
+
+h1 {
+    float: top;
+    background-color: gray;
+    width: 88rem;
+    height: 3rem;
+    margin: 0rem;
+    border: 0rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    color: white;
+}
+
+h3 {
+    float: left;
+    background-color: lightgray;
+    margin: 0rem;
+    border: 0rem;
+    /* height: 1.6rem;
+    width: 4.8rem; */
+    padding-top: 2.7rem;
+    padding-bottom: 2.7rem;
+    padding-left: 2.6rem;
+    padding-right: 2.6rem;
+    border-style: solid;
+    border-bottom-width: 0.1rem;
+    border: white;
+}
+
+.c0 {
+    display: block;
+}
+
+.c2 {
+    font-weight: normal;
+}
+
+
+p {
+    float: left;
+    background-color: white;
+    margin: 0rem;
+    border: 0rem;
+    padding: 0rem;
+    width: 79.4rem;
+    height: 6.5rem;
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    border-style: solid;
+    border-bottom-width: 0.1rem;
+    border-right-width: 0.1rem;
+    border-color: lightgray;
+}
